@@ -2,7 +2,7 @@
   "name": "react-cards-bootstrap",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/J-ose/App-cards",
+  "homepage package.json": "https://github.com/J-ose/App-cards/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
